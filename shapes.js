@@ -4,13 +4,13 @@ class Shapes {
     }
 
     setColor(varColor) {
-        this.color = colorVar;
+        this.color = varColor;
     }
 }
 
 class Circle extends Shapes {
     render() {
-        return `<circle cx="125" cy="125" r="75" />`;
+        return `<circle cx="150" cy="100" r="80" fill="green" />`;
     }
 }
 
@@ -22,7 +22,7 @@ class Triangle extends Shapes {
 
 class Square extends Shapes {
     render() {
-        return `<rect x="75" y="150" width="160" height="160" fill="${this.color}" />`;
+        return `<rect x="90" y="40" width="120" height="120" fill="${this.color}" />`;
     }
 }
 
