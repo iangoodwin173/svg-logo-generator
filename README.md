@@ -7,6 +7,8 @@ Links, walkthroughs, and relevant images are included below.
 Link to walkthrough: https://watch.screencastify.com/v/ndZXEhxaV43ntBsdMXZn
 
 Generated Logo: 
+
+
 ![generated logo screenshot](https://user-images.githubusercontent.com/122403641/235471179-8bba363c-1556-4751-9e2d-4391e57586ae.png)
 
 
